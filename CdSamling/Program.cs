@@ -1,7 +1,14 @@
+using CdSamling.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+//Koppla upp mot databas
+builder.Services.AddDbContext<CdContext>(options => 
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultDbString")));
 
 var app = builder.Build();
 

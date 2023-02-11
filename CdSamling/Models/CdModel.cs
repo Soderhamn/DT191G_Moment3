@@ -1,5 +1,7 @@
-namespace CdSamling.Models {
-    public class CdSkivan {
+namespace CdSamling.Models 
+{
+    public class Cd 
+    {
         //Properties
         public int Id { get; set; }
         public string? CdName { get; set; }
