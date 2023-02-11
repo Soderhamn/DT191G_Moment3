@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "fRAhqa0EgemZcEYWuWC6mFvdtMxHz8AzVHHhU6F8hDlmFcuz/RBT6iHXHHVSgtHkjlRZdPu9dK7FWNgLFQSW2Q==",
+  "dgSpecHash": "g1wqErjAlMwv0gG5RpPVEIeO0GwJ3hw7nArucuF8Jyif4PeMrbuQG4bgvcS4/o/ChkUyHyzfHoFWNWymASvCyg==",
   "success": true,
   "projectFilePath": "C:\\Users\\marcu\\Documents\\MIUN\\VT23\\Webbutveckling med NET\\Moment3\\CdSamling\\CdSamling.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Nugets\\microsoft.entityframeworkcore.sqlite\\7.0.2\\microsoft.entityframeworkcore.sqlite.7.0.2.nupkg.sha512",
     "C:\\Nugets\\microsoft.entityframeworkcore.sqlite.core\\7.0.2\\microsoft.entityframeworkcore.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Nugets\\microsoft.entityframeworkcore.sqlserver\\7.0.2\\microsoft.entityframeworkcore.sqlserver.7.0.2.nupkg.sha512",
+    "C:\\Nugets\\microsoft.entityframeworkcore.tools\\7.0.2\\microsoft.entityframeworkcore.tools.7.0.2.nupkg.sha512",
     "C:\\Nugets\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Nugets\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Nugets\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
