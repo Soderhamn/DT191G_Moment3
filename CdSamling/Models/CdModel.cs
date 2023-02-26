@@ -10,10 +10,13 @@ namespace CdSamling.Models
         [Required]
         public string? CdName { get; set; }
         [Required]
-        public string? ArtistName { get; set; }
-        [Required]
         public int? NrTracks { get; set; }
         [Required]
         public int? ReleaseYear { get; set; }
+
+        [Required]
+        public int ArtistId { get; set; }
+
+        public Artist? Artist { get; set;}
     }
 }

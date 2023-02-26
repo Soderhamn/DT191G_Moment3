@@ -7,5 +7,7 @@ namespace CdSamling.Models {
 
         [Required]
         public string? Name {get; set; }
+
+        public List<Cd>? Cds {get; set;} //Koppla ihop artist med Cds
     }
 } 
