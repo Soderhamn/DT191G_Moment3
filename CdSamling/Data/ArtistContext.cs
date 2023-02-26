@@ -9,6 +9,6 @@ namespace CdSamling.Data
             
         }
 
-        public DbSet<Cd> Cd { get; set; }
+        public DbSet<Artist> Artist { get; set; }
     }
 }

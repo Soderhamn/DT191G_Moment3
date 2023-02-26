@@ -9,6 +9,8 @@ builder.Services.AddControllersWithViews();
 //Koppla upp mot databas
 builder.Services.AddDbContext<CdContext>(options => 
 options.UseSqlite(builder.Configuration.GetConnectionString("DefaultDbString")));
+builder.Services.AddDbContext<ArtistContext>(options => 
+options.UseSqlite(builder.Configuration.GetConnectionString("DefaultDbString")));
 
 var app = builder.Build();
 

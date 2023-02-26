@@ -16,6 +16,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Users\marcu\Documents\MIUN\VT23\Webbutveckling med NET\Moment3\CdSamling
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Artists/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Artists/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Artists/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Artists/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Artists/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Cds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Cds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Cds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Cds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Cds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2RzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Users/marcu/Documents/MIUN/VT23/Webbutveckling med NET/Moment3/CdSamling/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
